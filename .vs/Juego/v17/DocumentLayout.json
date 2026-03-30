@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9817194-0AAA-483B-A599-A292B8DC5430}|Juego.csproj|e:\\luis\\estudio\\fundamentos blazor\\juego\\pages\\inicio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9817194-0AAA-483B-A599-A292B8DC5430}|Juego.csproj|solutionrelative:pages\\inicio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9817194-0AAA-483B-A599-A292B8DC5430}|Juego.csproj|e:\\luis\\estudio\\fundamentos blazor\\juego\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9817194-0AAA-483B-A599-A292B8DC5430}|Juego.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9817194-0AAA-483B-A599-A292B8DC5430}|Juego.csproj|e:\\luis\\estudio\\fundamentos blazor\\juego\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C9817194-0AAA-483B-A599-A292B8DC5430}|Juego.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9817194-0AAA-483B-A599-A292B8DC5430}|Juego.csproj|e:\\luis\\estudio\\fundamentos blazor\\juego\\modelos\\modelocuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9817194-0AAA-483B-A599-A292B8DC5430}|Juego.csproj|solutionrelative:modelos\\modelocuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9817194-0AAA-483B-A599-A292B8DC5430}|Juego.csproj|e:\\luis\\estudio\\fundamentos blazor\\juego\\componentes\\cuadrado.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9817194-0AAA-483B-A599-A292B8DC5430}|Juego.csproj|solutionrelative:componentes\\cuadrado.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9817194-0AAA-483B-A599-A292B8DC5430}|Juego.csproj|e:\\luis\\estudio\\fundamentos blazor\\juego\\pages\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9817194-0AAA-483B-A599-A292B8DC5430}|Juego.csproj|solutionrelative:pages\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9817194-0AAA-483B-A599-A292B8DC5430}|Juego.csproj|e:\\luis\\estudio\\fundamentos blazor\\juego\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9817194-0AAA-483B-A599-A292B8DC5430}|Juego.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
+              "ToolTip": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T03:43:00.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T02:23:17.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModeloCuadrado.cs",
+              "DocumentMoniker": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\Modelos\\ModeloCuadrado.cs",
+              "RelativeDocumentMoniker": "Modelos\\ModeloCuadrado.cs",
+              "ToolTip": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\Modelos\\ModeloCuadrado.cs",
+              "RelativeToolTip": "Modelos\\ModeloCuadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:05:18.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cuadrado.razor",
+              "DocumentMoniker": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\Componentes\\Cuadrado.razor",
+              "RelativeDocumentMoniker": "Componentes\\Cuadrado.razor",
+              "ToolTip": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\Componentes\\Cuadrado.razor",
+              "RelativeToolTip": "Componentes\\Cuadrado.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T02:03:44.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.css",
+              "DocumentMoniker": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
+              "ToolTip": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-04T01:56:22.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\Pages\\Inicio.cs",
+              "RelativeDocumentMoniker": "Pages\\Inicio.cs",
+              "ToolTip": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\Pages\\Inicio.cs",
+              "RelativeToolTip": "Pages\\Inicio.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:42:34.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inicio.razor",
+              "DocumentMoniker": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\Pages\\Inicio.razor",
+              "RelativeDocumentMoniker": "Pages\\Inicio.razor",
+              "ToolTip": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\Pages\\Inicio.razor",
+              "RelativeToolTip": "Pages\\Inicio.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T01:36:40.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

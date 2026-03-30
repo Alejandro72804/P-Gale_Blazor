@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\obj\\Debug\\net8.0\\compressed\\mbxdh5bgv7.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Juego.styles.css",
+      "PackagePath": "staticwebassets\\Juego.styles.css"
+    },
+    {
+      "Id": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\wwwroot\\Img\\mole.jpg",
+      "PackagePath": "staticwebassets\\Img\\mole.jpg"
+    },
+    {
+      "Id": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\Luis\\Estudio\\Fundamentos Blazor\\Juego\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Juego.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Juego.props",
+      "PackagePath": "build\\Juego.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Juego.props",
+      "PackagePath": "buildMultiTargeting\\Juego.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Juego.props",
+      "PackagePath": "buildTransitive\\Juego.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

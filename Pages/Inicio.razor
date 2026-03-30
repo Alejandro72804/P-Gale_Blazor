@@ -1,0 +1,30 @@
+﻿@page "/"
+
+<h1>Pegale al Topo!</h1>
+<h2>Puntos: @pts</h2>
+<h2>Segundos Restantes: @segRes</h2>
+<h2>@msj</h2>
+
+
+
+<div class=" Tablero">
+
+    @foreach (var s in Cuadrado)
+    {
+        <Cuadrado ModeloCuadrado="s" Click=" ()=> Click(s)" />
+    }
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+

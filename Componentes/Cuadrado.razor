@@ -1,0 +1,14 @@
+﻿<div class=" Cuadrado @ModeloCuadrado.Style" @onmouseup=ValidateHit></div>
+
+@code {
+    [Parameter]
+    public EventCallback Click { get; set; }
+
+    [Parameter]
+    public ModeloCuadrado ModeloCuadrado { get; set; }
+
+    private void ValidateHit()
+    {
+        Click.InvokeAsync(new EventArgs());
+    }
+}
